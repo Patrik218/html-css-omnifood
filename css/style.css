@@ -63,3 +63,14 @@ body {
     /* by Default 1 rem = 16px */
     /* 1 rem = the default font size of the html */
 }
+
+.hero {
+    max-width: 130rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.hero-img {
+    width: 100%;
+}

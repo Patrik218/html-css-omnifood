@@ -43,3 +43,9 @@ body {
     font-weight: 400;
     color: #555;
 }
+
+.test {
+    max-width: 1000px;
+    background-color: lightblue;
+    padding: 100px;
+}
